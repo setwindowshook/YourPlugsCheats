@@ -28,6 +28,6 @@ If you want you can visit my [Your Plugs Cheats](https://yourplugscheats.xyz)
 <p align="center" > 
   <i>Thanks for stopping by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
-  <a href="https://yourplugscheats.xyz">
-  <code>alt="My Website" width="32"/></code>
+  <a href="Https://discord.gg/YourPlugsCheats">
+  <code>"My Website"</code>
 </p>
