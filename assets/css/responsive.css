@@ -1,0 +1,380 @@
+
+
+@media only screen and (min-width:0px) and (max-width:767px) {
+    
+    /* Global Style Start */
+    section {
+        padding: 50px 0px;
+    }
+    h2 {
+        font-size: 28px;
+    }
+    p {
+        font-size: 14px;
+    }
+    .d2c_btn {
+        font-size: 14px;
+        padding: 7px 22px 6px 22px;
+    }
+    /* Global Style End */
+
+    /* Navbar Start */
+    .navbar-nav .nav-item {
+        padding: 5px 0px;
+    }
+    .navbar-nav .nav-item .d2c_btn {
+        margin: 10px 0px 0px 15px;
+    }
+    /* Navbar End */
+
+    /* Hero Start */
+    .d2c_hero_title {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .d2c_img_content {
+        font-size: 16px;
+    }
+    /* Hero End */
+
+    /* About Start */
+    .d2c_about_wrapper {
+        padding-top: 0;
+    }
+    .d2c_about_img_wrapper {
+        height: 400px;
+    }
+    /* About End */
+
+    /* Art's Start */
+    .d2c_arts_wrapper {
+        padding-top: 0;
+    }
+    .d2c_arts_wrapper .nav-link {
+        padding: 8px 10px !important;
+    }
+    .d2c_arts_wrapper .nav {
+        margin: 0 auto;
+    }
+    /* Art's End */
+
+    /* Category Start */
+    .d2c_category_wrapper {
+        padding-top: 0;
+    }
+    /* Category End */
+
+    /* Top Collection Start */
+    .d2c_collection_wrapper {
+        padding-top: 0;
+    }
+    /* Top Collection End */
+
+    /* Action Start */
+    .d2c_action_wrapper {
+        padding-top: 0;
+    }
+    /* Action End */
+
+    /* Partner Start */
+    .d2c_partner_wrapper {
+        padding-top: 0;
+    }
+    /* Partner End */
+
+    /* Advantage Start */
+    .d2c_advantage_wrapper {
+        padding-top: 0;
+    }
+    /* Advantage End */
+
+    /* Call To Action Start */
+    .d2c_c2a_wrapper {
+        padding-top: 0;
+    }
+    .d2c_c2a {
+        padding: 50px 10px;
+    }
+    .d2c_c2a_title {
+        font-size: 20px;
+    }
+    /* Call To Action End */
+
+    /* Contact Start */
+    .d2c_contact_wrapper h2 {
+        font-size: 24px;
+    }
+    .d2c_contact_form {
+        padding: 20px;
+    }
+    .d2c_title_content {
+        margin-bottom: 30px;
+    }
+    /* Contact End */
+
+    /* Footer Start */
+    .d2c_footer_wrapper {
+        padding: 50px 0px 0px;
+    }
+    .d2c_footer_wrapper ul li {
+        padding: 3px 0;
+    }
+    /* Footer End */
+}
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    
+    /* Global Style Start */
+    section {
+        padding: 70px 0px;
+    }
+    .d2c_btn {
+        font-size: 14px;
+        padding: 8px 22px 7px 22px;
+    }
+    h2 {
+        font-size: 28px;
+    }
+    p {
+        font-size: 14px;
+    }
+    /* Global Style End */
+
+    /* Navbar Start */
+    .navbar-nav .nav-item {
+        padding: 5px 0px;
+    }
+    .navbar-nav .nav-item .d2c_btn {
+        margin: 10px 0px 0px 15px;
+    }
+    /* Navbar End */
+
+    /* Hero Start */
+    .d2c_hero_wrapper {
+        height: auto;
+    }
+    .d2c_hero_title {
+        font-size: 32px;
+        line-height: 42px;
+    }
+    /* Hero Start */
+
+    /* About Start */
+    .d2c_about_wrapper {
+        padding-top: 0;
+    }
+    /* About End */
+
+    /* Art's Start */
+    .d2c_arts_wrapper {
+        padding-top: 0;
+    }
+    .d2c_arts_wrapper .nav-tabs {
+        margin: 0 auto;
+    }
+    .d2c_arts_wrapper .nav-link {
+        padding: 10px 22px !important;
+    }
+    /* Art's End */
+
+    /* Category Start */
+    .d2c_category_wrapper {
+        padding-top: 0;
+    }
+    /* Category End */
+
+    /* Top Collection Start */
+    .d2c_collection_wrapper {
+        padding-top: 0;
+    }
+    /* Top Collection Start */
+
+    /* Action Start */
+    .d2c_action_wrapper {
+        padding-top: 0;
+    }
+    /* Action End */
+
+    /* Partner Start */
+    .d2c_partner_wrapper {
+        padding-top: 0;
+    }
+    /* Partner End */
+
+    /* Advantage Start */
+    .d2c_advantage_wrapper {
+        padding-top: 0;
+    }
+    /* Advantage End */
+
+    /* Call To Action Start */
+    .d2c_c2a_wrapper {
+        padding-top: 0;
+    }
+    .d2c_c2a {
+        padding: 50px 0px;
+    }
+    .d2c_c2a_title {
+        font-size: 24px;
+    }
+    /* Call To Action End */
+
+    /* Contact Start */
+    .d2c_contact_wrapper h2 {
+        font-size: 24px;
+    }
+    .d2c_contact_form {
+        padding: 20px;
+    }
+    .d2c_title_content {
+        margin-bottom: 40px;
+    }
+    /* Contact End */
+
+    /* Footer Start */
+    .d2c_footer_wrapper {
+        padding: 60px 0px 0px;
+    }
+    .d2c_footer_wrapper h4 {
+        margin-bottom: 20px;
+    }
+    .d2c_footer_subscribe {
+        margin-bottom: 25px !important;
+    }
+    /* Footer End */
+    #scrollBtn a i {
+        bottom: 7%;
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    
+    /* Global Style Start */
+    section {
+        padding: 50px 0px;
+    }
+    h2 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    p {
+        font-size: 17px;
+    }
+    .d2c_btn {
+        font-size: 16px;
+        padding: 8px 28px 7px 28px;
+    }
+    .d2c_card {
+        padding: 12px;
+    }
+    .d2c_card_title {
+        font-size: 16px;
+    }
+    /* Global Style End */
+
+    /* Hero Start */
+    .d2c_hero_title {
+        font-size: 36px;
+        line-height: 48px;
+    }
+    .d2c_hero_img_wrapper {
+        height: 190px;
+    }
+    .d2c_img_content {
+        font-size: 16px;
+        padding: 12px 0;
+    }
+    /* Hero End */
+
+    /* About Start */
+    .d2c_about_img_wrapper {
+        height: 450px;
+    }
+    /* About End */
+
+    /* Art's Start */
+    .d2c_arts_wrapper .nav-link {
+        padding: 10px 22px !important;
+    }
+    .d2c_arts_card img {
+        margin-bottom: 15px;
+    }
+    /* Art's End */
+
+    /* Category Start */
+    .d2c_category_card {
+        padding: 30px 22px !important;
+    }
+    /* Category End */
+
+    /* Top Collection Start */
+    .d2c_collection_card .d2c_image_wrapper {
+        height: 160px;
+    }
+    .d2c_collection_card .d2c_image_wrapper img:nth-child(2) {
+        width: 80px;
+        height: 80px;
+        bottom: 40px;
+    }
+    .d2c_card_body {
+        padding: 54px 10px 10px;
+    }
+    /* Top Collection End */
+
+    /* Call To Action Start */
+    .d2c_c2a {
+        padding: 70px 0px;
+    }
+    .d2c_c2a_title {
+        font-size: 32px;
+    }
+    /* Call To Action End */
+
+    /* Contact Start */
+    .d2c_contact_content {
+        padding-left: 10px;
+    }
+    .d2c_contact_content .list-group-item {
+        padding: 7px;
+    }
+    /* Contact End */
+
+    /* Footer Start */
+    .d2c_footer_wrapper {
+        padding: 70px 0px 0px;
+    }
+    .d2c_footer_wrapper ul li {
+        padding: 2px 0;
+    }
+    .d2c_copy_wrapper {
+        padding: 15px 0px;
+    }
+    /* Footer End */
+    #scrollBtn a i {
+        bottom: 7%;
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1399px) {
+    
+    section {
+        padding: 60px 0px;
+    }
+    .d2c_arts_wrapper .nav-link {
+        padding: 10px 30px !important;
+    }
+    .d2c_footer_wrapper {
+        padding: 60px 0px 0px;
+    }
+}
+
+
+
+/*
+    Template Name: {{QuickSilver}}
+    Template URL: {{https://www.designtocodes.com/product/quicksilver-nft-bootstrap-one-page-website-template}}
+    Description: {{Are you an artist, creator, or collector looking to make a unique online presence for your NFTs? Look no further! Discover the power of QuickSilver - NFT Bootstrap One Page Website Template that will take your digital art display to the next level.}}
+    Author: DesignToCodes
+    Author URL: https://www.designtocodes.com
+    Text Domain: {{ QuickSilver }}
+*/
