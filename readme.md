@@ -29,5 +29,5 @@ If you want you can visit my [Your Plugs Cheats](https://yourplugscheats.xyz)
   <i>Thanks for stopping by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
   <a href="Https://discord.gg/YourPlugsCheats">
-  <code>"My Website"</code>
+  <code>My Website</code>
 </p>
