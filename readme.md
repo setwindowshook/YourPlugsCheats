@@ -17,11 +17,7 @@ If you want you can visit my [Your Plugs Cheats](https://yourplugscheats.xyz)
 - 🌎 I'm from America, US.
 - 👨🏻‍💻 Love Programming and Stretching Game Memory To The Limits!
 - 🧠 We Dont Do Hand Outs Here, Learn Something.
-
-<br>
-<br>
-<br>
-<br>
+  
 <br>
 ---
 
