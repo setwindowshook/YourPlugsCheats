@@ -29,9 +29,5 @@ If you want you can visit my [Your Plugs Cheats](https://yourplugscheats.xyz)
   <i>Thanks for stopping by</i><br><br>
   <i>Feel free to connect with me</i><br><br>
   <a href="https://yourplugscheats.xyz">
-  <code><img alt="My Website" width="32" src="./images/linkedin.svg" /></code>
-</a>
-<a href="https://instagram.com/luis_gustavoj">
-<code><img alt="My e-mail" width="32" src="./images/instagram.svg" /></code>
-</a>
+  <code>alt="My Website" width="32"/></code>
 </p>
