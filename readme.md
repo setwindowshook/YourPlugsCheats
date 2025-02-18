@@ -1,6 +1,6 @@
 <img src="./images/computer.gif" width="100%"/>
 
-# 🖖 Hey skiddo! Welcome to  <img align="right" src="https://komarev.com/ghpvc/?username=luis-gustavoj&style=flat-square&color=blueviolet">
+# 🖖 Hey skiddo! Welcome <3  <img align="right" src="https://komarev.com/ghpvc/?username=luis-gustavoj&style=flat-square&color=blueviolet">
 
 I'm a front-end developer!
 
